@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-ucab-pink: #fadadd;
+  --color-ucab-duckegg: #7fd1c7;
+  --color-ucab-dark: #2c3e47;
+  --color-ucab-gray: #f7f3f4;
+
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
